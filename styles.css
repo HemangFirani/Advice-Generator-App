@@ -50,6 +50,7 @@ border-radius: 0.7rem;
     margin-top: 0.5rem;
     font-size: 28px;
     color: hsl(193, 38%, 86%);
+      font-weight:800;
   }
   .card .pause{
     width: 85%;
